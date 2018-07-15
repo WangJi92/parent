@@ -11,3 +11,6 @@ MyBatis Parent
 MyBatis-Parent is the MyBatis parent POM which has to be inherited by all MyBatis modules.
 
 
+自己下载mybatis 源码的时候需要这个工程下载到本地去[mybatis 源码导入IDEA](https://blog.csdn.net/lj1314ailj/article/details/79753157)
+
+
